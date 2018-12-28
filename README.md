@@ -1,6 +1,6 @@
 # One minute sample Loading Page
 
-**This is a loading page that i make it in less one minute. .**
+**This is a loading page that i made it in less one minute. .**
 
 **Including:**
 
@@ -8,9 +8,13 @@
 * Centered on every screen with transform method
 * Animation just plays with shadows
 * Animation running right on every browser
-* Comments to help you change it
+* Comments in css file to help you change it
+
+
 
 ![Image](http://g.recordit.co/X8XNBYzB1b.gif)
+
+
 
 ---
 
